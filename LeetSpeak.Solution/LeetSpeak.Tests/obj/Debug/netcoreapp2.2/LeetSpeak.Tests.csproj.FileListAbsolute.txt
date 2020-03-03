@@ -1,0 +1,17 @@
+C:\Users\Stunning\Desktop\epicodusProjects\c#\LeetSpeak\LeetSpeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\LeetSpeak.Tests.csprojAssemblyReference.cache
+C:\Users\Stunning\Desktop\epicodusProjects\c#\LeetSpeak\LeetSpeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\LeetSpeak.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Stunning\Desktop\epicodusProjects\c#\LeetSpeak\LeetSpeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\LeetSpeak.Tests.AssemblyInfoInputs.cache
+C:\Users\Stunning\Desktop\epicodusProjects\c#\LeetSpeak\LeetSpeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\LeetSpeak.Tests.AssemblyInfo.cs
+C:\Users\Stunning\Desktop\epicodusProjects\c#\LeetSpeak\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Stunning\Desktop\epicodusProjects\c#\LeetSpeak\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Stunning\Desktop\epicodusProjects\c#\LeetSpeak\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Stunning\Desktop\epicodusProjects\c#\LeetSpeak\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\LeetSpeak.Tests.deps.json
+C:\Users\Stunning\Desktop\epicodusProjects\c#\LeetSpeak\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\LeetSpeak.Tests.runtimeconfig.json
+C:\Users\Stunning\Desktop\epicodusProjects\c#\LeetSpeak\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\LeetSpeak.Tests.runtimeconfig.dev.json
+C:\Users\Stunning\Desktop\epicodusProjects\c#\LeetSpeak\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\LeetSpeak.Tests.dll
+C:\Users\Stunning\Desktop\epicodusProjects\c#\LeetSpeak\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\LeetSpeak.Tests.pdb
+C:\Users\Stunning\Desktop\epicodusProjects\c#\LeetSpeak\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\LeetSpeak.dll
+C:\Users\Stunning\Desktop\epicodusProjects\c#\LeetSpeak\LeetSpeak.Solution\LeetSpeak.Tests\bin\Debug\netcoreapp2.2\LeetSpeak.pdb
+C:\Users\Stunning\Desktop\epicodusProjects\c#\LeetSpeak\LeetSpeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\LeetSpeak.Tests.csproj.CopyComplete
+C:\Users\Stunning\Desktop\epicodusProjects\c#\LeetSpeak\LeetSpeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\LeetSpeak.Tests.dll
+C:\Users\Stunning\Desktop\epicodusProjects\c#\LeetSpeak\LeetSpeak.Solution\LeetSpeak.Tests\obj\Debug\netcoreapp2.2\LeetSpeak.Tests.pdb
