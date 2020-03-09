@@ -1,20 +1,20 @@
-using System;
-using System.Collections.Generic;
-using LeetSpeak.Models;
+using System.IO;
+using Microsoft.AspNetCore.Hosting;
 
-public class Program
+namespace LeetSpeak.Models
 {
-
-  public static Speak mySpeak;
-  public static void Main()
+  public class Program
   {
-    mySpeak = new Speak();
-    Console.WriteLine("Hello enter word you want to be LEET");
-    string setThisText = Console.ReadLine();
-    mySpeak.SetSplit(setThisText);
-    string str = new String(mySpeak.Split);
-    Console.WriteLine(str);
+    public static void Main(string[] args)
+    {
+      var host = new WebHostBuilder()
+        .UseKestrel()
+        .UseContentRoot(Directory.GetCurrentDirectory())
+        .UseIISIntegration()
+        .UseStartup<Startup>()
+        .Build();
+
+      host.Run();
+    }
   }
-
-
 }

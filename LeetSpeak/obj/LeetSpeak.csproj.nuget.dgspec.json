@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stunning\\Desktop\\epicodusProjects\\c#\\LeetSpeak\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj": {}
+    "C:\\Users\\Stunning\\Desktop\\epicodusProjects\\c#\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stunning\\Desktop\\epicodusProjects\\c#\\LeetSpeak\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj": {
+    "C:\\Users\\Stunning\\Desktop\\epicodusProjects\\c#\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stunning\\Desktop\\epicodusProjects\\c#\\LeetSpeak\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj",
+        "projectUniqueName": "C:\\Users\\Stunning\\Desktop\\epicodusProjects\\c#\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj",
         "projectName": "LeetSpeak",
-        "projectPath": "C:\\Users\\Stunning\\Desktop\\epicodusProjects\\c#\\LeetSpeak\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj",
+        "projectPath": "C:\\Users\\Stunning\\Desktop\\epicodusProjects\\c#\\LeetSpeak.Solution\\LeetSpeak\\LeetSpeak.csproj",
         "packagesPath": "C:\\Users\\Stunning\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stunning\\Desktop\\epicodusProjects\\c#\\LeetSpeak\\LeetSpeak.Solution\\LeetSpeak\\obj\\",
+        "outputPath": "C:\\Users\\Stunning\\Desktop\\epicodusProjects\\c#\\LeetSpeak.Solution\\LeetSpeak\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -39,6 +39,17 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",

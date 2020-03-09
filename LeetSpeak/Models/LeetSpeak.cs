@@ -6,11 +6,13 @@ namespace LeetSpeak.Models
   public class Speak
   {
     public char[] Split;
+    public string Leet;
 
     public void SetSplit(string userText)
     {
       Split = userText.ToCharArray();
       ReplaceLeet();
+      Leet = new string(Split);
     }
 
     public void ReplaceLeet()
