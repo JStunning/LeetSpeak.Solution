@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>Enter Your Madlib Details</title>
+    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+    <style type="text/css">
+        body { 
+          background-color: #ffebe6;
+          font-size: 2em;
+        }
+        .btn {
+          font-size: 2em;
+        }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Fill in the madlib information:</h1>
+      <form action="/result" method="post">
+        <div class="form-group">
+          <label for="word">Enter a word.</label>
+          <input id="word" name="word" type="text">
+        </div>
+        <button class="btn btn-info" type="submit">Create Madlib!</button>
+      </form>
+    </div>
+  </body>
+</html>
